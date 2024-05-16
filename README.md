@@ -13,3 +13,7 @@
 ## 👀 Next to learn list-
 ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## GitHub Stats-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cris-ctrl&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cris-ctrl&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cris-ctrl&theme=radical)
